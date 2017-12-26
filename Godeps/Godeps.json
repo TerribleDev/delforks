@@ -1,0 +1,31 @@
+{
+	"ImportPath": "delforks",
+	"GoVersion": "go1.9",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/google/go-github/github",
+			"Rev": "0c3b302de2a6de84a2511db47ea1bb2ff8146830"
+		},
+		{
+			"ImportPath": "github.com/google/go-querystring/query",
+			"Rev": "53e6ce116135b80d037921a7fdd5138cf32d7a8a"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context",
+			"Rev": "d866cfc389cec985d6fda2859936a575a55a3ab6"
+		},
+		{
+			"ImportPath": "golang.org/x/net/context/ctxhttp",
+			"Rev": "d866cfc389cec985d6fda2859936a575a55a3ab6"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2",
+			"Rev": "0448841f0cbe9d174c6c1cedd177f583337b8e2c"
+		},
+		{
+			"ImportPath": "golang.org/x/oauth2/internal",
+			"Rev": "0448841f0cbe9d174c6c1cedd177f583337b8e2c"
+		}
+	]
+}
